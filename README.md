@@ -99,6 +99,7 @@
  - Содержит название линии
  - Содержит 4 для навигации между окнами системы. По клику мыши происходит переход на выбранное окно
  - Содержит кнопку запуска/остановки линии
+
 ![image_2024-05-27_17-14-44](https://github.com/diakovai/hsline316_scada/assets/166050384/8211310b-bf5e-485a-885c-8bc9ea297cbf)
 
 
@@ -111,6 +112,7 @@
     - Black
     - Silver
     - Red
+  
 ![image_2024-05-27_17-31-36](https://github.com/diakovai/hsline316_scada/assets/166050384/80b34593-8c57-42d9-b377-c168e2f4f509)
 
 
@@ -125,6 +127,7 @@
     - handling_input_1_gripper_at_packing_station
     - handling_input_3_gripper_at_right
 Программа написана на языке ST
+
 ![image_2024-05-27_17-17-15](https://github.com/diakovai/hsline316_scada/assets/166050384/b0098141-29a1-4723-b813-6003c4ce3e30)
 
 
@@ -140,6 +143,7 @@
     - packing_output_5_fix_box_upper_side
     - packing_output_7_pack_box
 Программа написана на языке ST
+
 ![image_2024-05-27_17-26-47](https://github.com/diakovai/hsline316_scada/assets/166050384/0dadc4c4-d887-4b52-9c20-f0eacc63debe)
 
 
@@ -159,5 +163,6 @@
 
 Станция сортировки поочерёдно отображает прибытие запакованной заготовки на конвейер, движение заготовки по нему, срабатывание одного из толкателей и как резутат пополнение коробок одного из трех цветов.
 Программа написана на языке FBD
+
 ![image_2024-05-27_17-28-32](https://github.com/diakovai/hsline316_scada/assets/166050384/4ffc11db-aae9-4247-a91e-4859b10964ba)
 
