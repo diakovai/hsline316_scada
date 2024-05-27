@@ -111,7 +111,9 @@
     - Black
     - Silver
     - Red
-Программа написана на языке ST
+![image_2024-05-27_17-31-36](https://github.com/diakovai/hsline316_scada/assets/166050384/80b34593-8c57-42d9-b377-c168e2f4f509)
+
+
 
 ### Handling station
  - Содержит 2 индикатора положения гриппера - наверху, внизу. На вход получает соответствующие теги:
@@ -123,6 +125,8 @@
     - handling_input_1_gripper_at_packing_station
     - handling_input_3_gripper_at_right
 Программа написана на языке ST
+![image_2024-05-27_17-17-15](https://github.com/diakovai/hsline316_scada/assets/166050384/b0098141-29a1-4723-b813-6003c4ce3e30)
+
 
 ### Packing station
  - Содержит индикатор цвета поступившей фишки - красный, черный, серебристый. На вход получает соответствующие переменные, образованные из тегов:
@@ -136,8 +140,12 @@
     - packing_output_5_fix_box_upper_side
     - packing_output_7_pack_box
 Программа написана на языке ST
+![image_2024-05-27_17-26-47](https://github.com/diakovai/hsline316_scada/assets/166050384/0dadc4c4-d887-4b52-9c20-f0eacc63debe)
+
 
 ### Sorting station
  - Содержит счетчики отсортированных фишек - количество серебрянных, красных, черных.
  - Содержит визуализацию сортировки фишек.
 Программа написана на языке FBD
+![image_2024-05-27_17-28-32](https://github.com/diakovai/hsline316_scada/assets/166050384/4ffc11db-aae9-4247-a91e-4859b10964ba)
+
