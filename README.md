@@ -108,9 +108,9 @@
 
 ### Processing station
  - Содержит 3 индикатора состояния станции - вращение, сверление, детекция перевернутой фишки. На вход получает соответствующие теги:
-   -- processing_output_1_rotate_carousel
-   -- processing_output_0_drill
-   -- processing_output_5_detect_hole
+   - processing_output_1_rotate_carousel
+   - processing_output_0_drill
+   - processing_output_5_detect_hole
  - Содержит 3 индикатора цвета поступившей фишки - красный, черный, серебристый. На вход получает соответствующие переменные, образованные из тегов: Black, Silver, Red
 Программа написана на языке ST
 
